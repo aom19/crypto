@@ -10,20 +10,20 @@ import {
   MenuOutlined,
 } from "@ant-design/icons";
 
-import icon from "../images/cryptocurrency.png";
+import icon from "../../images/cryptocurrency.png";
 
 const Navbar = () => {
   return (
     <div className="nav-container">
+      {/* Logo */}
       <div className="logo-container">
         <Avatar src={icon} size="large" />
         <Typography.Title level={2} className="logo">
           <Link to="/"> Crypto</Link>
         </Typography.Title>
-        {/* <Button className="menu-control-container">
-
-          </Button> */}
+        {/* <Button className="menu-control-container"> </Button> */}
       </div>
+      {/* MenuItems */}
       <Menu theme="dark">
         <Menu.Item icon={<HomeOutlined />}>
           <Link to="/"> Home</Link>
