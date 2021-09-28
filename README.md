@@ -1,5 +1,5 @@
 # Crypto APP
-Build with ### `React ,Redux , Antd , ChartJs`
+Build with `React ,Redux , Antd , ChartJs`
 
 
 
