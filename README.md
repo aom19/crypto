@@ -8,13 +8,13 @@ Build with `React ,Redux , Antd , ChartJs`
 
 ## Getting Started
 ```bash
-git clone https://github.com/aom19/travel-app.git
+git clone https://github.com/aom19/cryptoApp.git
 ```
 
 
 ## Installation
 ```bash
-cd travel-app
+cd cryptoApp
 npm install 
 npm start
 
